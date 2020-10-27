@@ -1,1 +1,4 @@
-# code your #position_taken? method here!
+index = 0
+def position_taken?(board, index)
+  
+end
